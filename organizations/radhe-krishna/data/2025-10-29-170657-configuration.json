@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-10-29T11:36:53.048Z",
+  "data": {
+    "timestamp": "2025-10-29T11:36:57.310Z",
+    "brand": {
+      "brand_name": "CEO",
+      "brand_tagline": "",
+      "brand_logo": "/organizations/radhe-krishna/upload_image/brand_brandlogo.avif"
+    },
+    "categories": [
+      {
+        "category_name": "",
+        "category_image": ""
+      }
+    ],
+    "hero": [
+      {
+        "title": "",
+        "image": "",
+        "category": ""
+      }
+    ],
+    "instagram": [],
+    "news": [
+      {
+        "headline": "",
+        "link": ""
+      }
+    ],
+    "story": [
+      {
+        "title": "",
+        "video": "",
+        "description": ""
+      }
+    ],
+    "footer": {
+      "footer_company": "",
+      "footer_address": "",
+      "footer_phone": "",
+      "footer_email": "",
+      "footer_copyright": ""
+    },
+    "subpages": [],
+    "NewArrival": [],
+    "Mix": []
+  },
+  "filename": "2025-10-29-170657-configuration.json",
+  "userEmail": "ankush@tambnick25.onmicrosoft.com",
+  "userName": "ankush",
+  "organizationName": "radhe-krishna",
+  "workspaceType": "organization"
+}
