@@ -1,0 +1,17 @@
+{
+  "message": "Welcome to radhe-krishna shared workspace!",
+  "user": "ankush@tambnick25.onmicrosoft.com",
+  "organization": "radhe-krishna",
+  "workspaceType": "organization",
+  "created": "2025-10-29T11:36:21.763Z",
+  "workspace": {
+    "dataDirectory": "organizations\\radhe-krishna\\data",
+    "uploadDirectory": "organizations\\radhe-krishna\\upload_image"
+  },
+  "tips": [
+    "This is a shared workspace for radhe-krishna",
+    "All members of your organization groups can access this workspace",
+    "Files you upload here will be visible to other organization members",
+    "Use this space to collaborate with your team"
+  ]
+}
